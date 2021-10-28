@@ -1,0 +1,14 @@
+.Welcome {
+  font-family: "Times New Roman", Times, serif !important;
+  margin-left: 5px;
+  line-height: 1.6;
+  flex: 0.7;
+}
+
+.Welcome > hr {
+  margin: 10px 5px;
+  /* border-top: 5px dotted #000; */
+  background-color: #49274b;
+  color: #49274b;
+  padding: 1px;
+}
